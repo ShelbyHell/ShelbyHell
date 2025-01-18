@@ -13,3 +13,8 @@
  - Redmi 7A `(pine)`
  - Redmi 9 `(lancelot)`
  - Galaxy J4+ `(j4primelte)`
+
+## 🌳 My device trees
+juice: [**Device**](https://github.com/shelby-stuffs/android_device_xiaomi_juice) / [**Kernel**](https://github.com/shelby-stuffs/android_kernel_xiaomi_juice) / [**Vendor**](https://github.com/shelby-stuffs/android_vendor_xiaomi_juice)
+
+topaz: [**Device**](https://github.com/shelby-stuffs/android_device_xiaomi_topaz) / [**Kernel-prebuilt**](https://github.com/shelby-stuffs/android_device_xiaomi_topaz-kernel) / [**Vendor**](https://github.com/shelby-stuffs/android_vendor_xiaomi_topaz)
