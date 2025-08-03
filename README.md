@@ -5,6 +5,7 @@
 
 ## 📱 Devices in use
  - Google Pixel 6a on Google Tensor (gs101) `(bluejay)`
+ - Samsung Galaxy Note8 `(greatlte)`
  - Poco M3 on bengal `(citrus)`
  - Redmi 7A on sdm439 `(pine)`
  - Galaxy J4+ on msm8917 `(j4primelte)`
