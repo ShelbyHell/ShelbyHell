@@ -4,6 +4,6 @@
  - You can call me Alexey Shelby / ShelbyHell / Skyline666
 
 ## 📱 Devices in use
- - Google Pixel 6a on Google Tensor (gs101) `(bluejay)`
+ - Google Pixel 6a on Google Tensor (gs101) `(bluejay), broken`
  - Samsung Galaxy Note8 on Exynos8895 `(greatlte)`
  - Redmi 7A on sdm439 `(pine)`
