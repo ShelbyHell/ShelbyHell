@@ -4,5 +4,6 @@
  - You can call me Alexey Shelby / ShelbyHell / Skyline666
 
 ## 📱 Devices in use
+ - iPhone 12 mini
  - Poco M3 `(citrus)`
  - Redmi 7A on sdm439 `(pine)`
