@@ -5,5 +5,8 @@
 
 ## 📱 Devices in use
  - iPhone 12 mini
+ - Pixel 6a (dead display)
+ - Galaxy Note8 (maybe dead pmic and ufs)
+ - Galaxy J4+
  - Poco M3 `(citrus)`
  - Redmi 7A on sdm439 `(pine)`
