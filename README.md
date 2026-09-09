@@ -2,7 +2,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShelbyHell" alt="ShelbyHell" /> </p>
 
  - You can call me Alexey Shelby / ShelbyHell
-
-## 📱 Devices in use
- - Moto G100s (mumba)
- - iPhone 12 mini
