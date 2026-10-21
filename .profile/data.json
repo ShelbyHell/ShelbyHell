@@ -1,0 +1,524 @@
+{
+ "key": "e2659b5a",
+ "stars": 0,
+ "contributions": 7628,
+ "repos": 37,
+ "followers": 7,
+ "languages": [
+  [
+   "C",
+   1023975898
+  ],
+  [
+   "C++",
+   40545454
+  ],
+  [
+   "Assembly",
+   38336208
+  ],
+  [
+   "Go",
+   11436494
+  ],
+  [
+   "Java",
+   10370791
+  ],
+  [
+   "Python",
+   3836000
+  ],
+  [
+   "JavaScript",
+   3631791
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 16,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 2,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 25,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 22,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 21,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 34,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 21,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 368,
+  "longest": 368
+ },
+ "pins": [
+  {
+   "name": "android_device_xiaomi_juice",
+   "url": "https://github.com/shelby-stuffs/android_device_xiaomi_juice",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "android_kernel_xiaomi_juice",
+   "url": "https://github.com/shelby-stuffs/android_kernel_xiaomi_juice",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "android_vendor_xiaomi_juice",
+   "url": "https://github.com/shelby-stuffs/android_vendor_xiaomi_juice",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "android_kernel_samsung_a31",
+   "url": "https://github.com/shelby-stuffs/android_kernel_samsung_a31",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "android_device_samsung_greatlte",
+   "url": "https://github.com/shelby-stuffs/android_device_samsung_greatlte",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "genfstab",
+   "url": "https://github.com/ShelbyHell/genfstab",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "f1glory-oss",
+   "url": "https://github.com/ShelbyHell/f1glory-oss",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "memreduct",
+   "url": "https://github.com/ShelbyHell/memreduct",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "hikari-marketplace",
+   "url": "https://github.com/ShelbyHell/hikari-marketplace",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "Hikari",
+   "url": "https://github.com/ShelbyHell/Hikari",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "demo2026",
+   "url": "https://github.com/ShelbyHell/demo2026",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "kernel_xiaomi_juice",
+   "url": "https://github.com/ShelbyHell/kernel_xiaomi_juice",
+   "text": "Poco M3/Redmi 9T Global Kernel",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "android_device_qcom_bengal",
+   "url": "https://github.com/ShelbyHell/android_device_qcom_bengal",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "challenge-finder",
+   "url": "https://github.com/ShelbyHell/challenge-finder",
+   "text": "Easily find geoguessr challenge links",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "android_device_qcom_bengal_515",
+   "url": "https://github.com/ShelbyHell/android_device_qcom_bengal_515",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "android_system_sepolicy",
+   "url": "https://github.com/ShelbyHell/android_system_sepolicy",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "android_system_core",
+   "url": "https://github.com/ShelbyHell/android_system_core",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "android_system_libartpalette",
+   "url": "https://github.com/ShelbyHell/android_system_libartpalette",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "android_frameworks_native",
+   "url": "https://github.com/ShelbyHell/android_frameworks_native",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "android_frameworks_base",
+   "url": "https://github.com/ShelbyHell/android_frameworks_base",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "android_hardware_lineage_compat",
+   "url": "https://github.com/ShelbyHell/android_hardware_lineage_compat",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "android_art",
+   "url": "https://github.com/ShelbyHell/android_art",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "android_bionic",
+   "url": "https://github.com/ShelbyHell/android_bionic",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Assembly",
+   "topics": []
+  },
+  {
+   "name": "android_build_make",
+   "url": "https://github.com/ShelbyHell/android_build_make",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "android_build_soong",
+   "url": "https://github.com/ShelbyHell/android_build_soong",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "android_hardware_qcom_bootctrl",
+   "url": "https://github.com/ShelbyHell/android_hardware_qcom_bootctrl",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "android_device_qcom_sepolicy_vndr",
+   "url": "https://github.com/ShelbyHell/android_device_qcom_sepolicy_vndr",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "qualcomm_manifest",
+   "url": "https://github.com/ShelbyHell/qualcomm_manifest",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "shelbyhell.github.io",
+   "url": "https://github.com/ShelbyHell/shelbyhell.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "android_device_qcom_common",
+   "url": "https://github.com/ShelbyHell/android_device_qcom_common",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "proprietary_vendor_qcom_common",
+   "url": "https://github.com/ShelbyHell/proprietary_vendor_qcom_common",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "ShelbyHell",
+   "url": "https://github.com/ShelbyHell/ShelbyHell",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "android_hardware_qcom_gps",
+   "url": "https://github.com/ShelbyHell/android_hardware_qcom_gps",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "android_hardware_qcom_media",
+   "url": "https://github.com/ShelbyHell/android_hardware_qcom_media",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "android_vendor_qcom_opensource_agm",
+   "url": "https://github.com/ShelbyHell/android_vendor_qcom_opensource_agm",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "android_hardware_qcom_audio-ar",
+   "url": "https://github.com/ShelbyHell/android_hardware_qcom_audio-ar",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "android_vendor_qcom_opensource_arpal-lx",
+   "url": "https://github.com/ShelbyHell/android_vendor_qcom_opensource_arpal-lx",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "android_hardware_qcom_display",
+   "url": "https://github.com/ShelbyHell/android_hardware_qcom_display",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "cs-cost-calculator",
+   "url": "https://github.com/ShelbyHell/cs-cost-calculator",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "cs-match-simulator",
+   "url": "https://github.com/ShelbyHell/cs-match-simulator",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "android_kernel_xiaomi_sm6225-5.15",
+   "url": "https://github.com/ShelbyHell/android_kernel_xiaomi_sm6225-5.15",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "changelogs",
+   "url": "https://github.com/ShelbyHell/changelogs",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
