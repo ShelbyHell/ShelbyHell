@@ -28,10 +28,6 @@
       {
         "icon": "location_on",
         "label": "Earth"
-      },
-      {
-        "icon": "code",
-        "label": "TypeScript · Python"
       }
     ]
   },
@@ -40,15 +36,7 @@
     "items": [
       {
         "icon": "person",
-        "label": "Developer and designer"
-      },
-      {
-        "icon": "code",
-        "label": "Mostly frontend"
-      },
-      {
-        "icon": "palette",
-        "label": "Into Material Design"
+        "label": "Android Developer."
       }
     ]
   },
@@ -56,32 +44,11 @@
     "title": "Tech stack",
     "groups": [
       {
-        "title": "Main",
-        "items": [
-          {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
-          },
-          {
-            "icon": "brand:react",
-            "label": "React"
-          },
-          {
-            "icon": "brand:python",
-            "label": "Python"
-          }
-        ]
-      },
-      {
         "title": "Tools",
         "items": [
           {
             "icon": "brand:git",
             "label": "Git"
-          },
-          {
-            "icon": "brand:figma",
-            "label": "Figma"
           },
           {
             "icon": "brand:githubactions",
@@ -92,7 +59,7 @@
     ]
   },
   "projects": {
-    "source": "pinned",
+    "source": "manual",
     "repos": [],
     "overrides": {},
     "empty": "No description yet.",
@@ -119,15 +86,11 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "url": "https://t.me/ShelbyHell"
       },
       {
         "icon": "brand:discord",
-        "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "url": "https://discord.com/ShelbyHell"
       }
     ],
     "variant": "chip",
@@ -135,19 +98,6 @@
     "card": true
   },
   "buttons": {
-    "items": [
-      {
-        "icon": "language",
-        "label": "My website",
-        "url": "https://example.com",
-        "style": "filled"
-      },
-      {
-        "icon": "book_2",
-        "label": "All repositories",
-        "url": "",
-        "style": "tonal"
-      }
-    ]
+    "items": []
   }
 }
