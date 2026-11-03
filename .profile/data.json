@@ -1,5 +1,5 @@
 {
- "key": "df8f5701",
+ "key": "a4376120",
  "stars": 0,
  "contributions": 7311,
  "repos": 38,
@@ -118,9 +118,13 @@
    {
     "c": 8,
     "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
     "today": true
    },
-   null,
    null,
    null,
    null,
