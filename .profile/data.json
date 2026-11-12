@@ -1,5 +1,5 @@
 {
- "key": "b29563e",
+ "key": "cfd1605d",
  "stars": 0,
  "contributions": 7189,
  "repos": 38,
@@ -128,9 +128,13 @@
    {
     "c": 11,
     "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
     "today": true
    },
-   null,
    null,
    null
   ]
