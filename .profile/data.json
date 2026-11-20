@@ -1,8 +1,8 @@
 {
- "key": "57693af8",
+ "key": "400fefa8",
  "stars": 0,
- "contributions": 6930,
- "repos": 39,
+ "contributions": 6935,
+ "repos": 40,
  "followers": 5,
  "languages": [
   [
@@ -19,7 +19,7 @@
   ],
   [
    "Go",
-   11503701
+   11509939
   ],
   [
    "Java",
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 6,
     "day": 20,
     "today": true
    },
@@ -149,52 +149,34 @@
  },
  "pins": [
   {
-   "name": "android_device_xiaomi_juice",
-   "url": "https://github.com/shelby-stuffs/android_device_xiaomi_juice",
-   "text": "",
-   "fork": false,
+   "name": "F1_CE_PS3",
+   "url": "https://github.com/ShelbyHell/F1_CE_PS3",
+   "text": "Recompilation for modern system of Formula One Championship Edition (PS3)",
+   "fork": true,
    "stars": 0,
-   "language": "Makefile",
+   "language": "C++",
    "topics": []
   },
   {
-   "name": "android_kernel_xiaomi_juice",
-   "url": "https://github.com/shelby-stuffs/android_kernel_xiaomi_juice",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "C",
-   "topics": []
-  },
-  {
-   "name": "android_vendor_xiaomi_juice",
-   "url": "https://github.com/shelby-stuffs/android_vendor_xiaomi_juice",
-   "text": "",
+   "name": "Hikari",
+   "url": "https://github.com/ShelbyHell/Hikari",
+   "text": "FORCE-PUSH WARNING!",
    "fork": false,
    "stars": 0,
-   "language": "Makefile",
-   "topics": []
-  },
-  {
-   "name": "android_kernel_samsung_a31",
-   "url": "https://github.com/shelby-stuffs/android_kernel_samsung_a31",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "C",
-   "topics": []
-  },
-  {
-   "name": "android_device_samsung_greatlte",
-   "url": "https://github.com/shelby-stuffs/android_device_samsung_greatlte",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "C",
+   "language": "Go",
    "topics": []
   }
  ],
  "all": [
+  {
+   "name": "mihomo-runet-mrs",
+   "url": "https://github.com/ShelbyHell/mihomo-runet-mrs",
+   "text": "Automatically updated MRS rule sets for Mihomo (Clash Meta) — RunetFreedom geoip.dat and geosite.dat converted to .mrs twice a day (01:37 and 13:37 UTC)",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
   {
    "name": "F1_CE_PS3",
    "url": "https://github.com/ShelbyHell/F1_CE_PS3",
